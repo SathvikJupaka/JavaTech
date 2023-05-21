@@ -1,3 +1,3 @@
 # JavaTech
 
-This is Jupaa Sathvik
+This is Jupaka Sathvik
